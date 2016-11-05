@@ -1,0 +1,50 @@
+
+.back{
+	background-color: #721818;
+}
+
+
+h1{
+	text-align: center;
+	font-family: vivaldi, cursive;
+	color: #0f896d;
+	font-size: 50px;
+}
+
+p{
+	text-decoration: none;
+	color: #d1f442;
+	font-size: 40px;
+	font-weight: bolder;
+	font-family: Verdana, sans-serif;
+}
+
+h4{
+	text-decoration: none;
+	color: #d1f442;
+	font-size: 40px;
+	font-weight: bolder;
+	font-family: Verdana, sans-serif;
+	text-align: center;
+}
+
+h4 span {
+color: #269900;
+}
+
+ol{
+	text-decoration: none;
+	color: #1a7a22;
+	font-size: 25px;
+	font-family: Verdana, sans-serif;
+}
+
+.nav-tab{
+	font-size: 90px;
+	text-align: center;
+}
+
+.navigation{
+	text-decoration: none;
+	color: #269900;
+}
